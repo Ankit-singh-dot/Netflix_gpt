@@ -1,11 +1,7 @@
-import './App.css';
+import Body from "./Component/body";
 
 function App() {
-  return (
-    <div className="Netflix">
-  <h1>Hello</h1>
-    </div>
-  );
+  return <Body />;
 }
 
 export default App;
